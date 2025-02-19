@@ -35,8 +35,7 @@ Create a structured dataset matching vessel names to their infraction reports to
    - Case titles
    - Decision/report links 
    - Vessel names mentioned in titles
-   - PDF reports (in .hwp format and renamed to English title extracted from the case title)
-   - Vessel type classifications
+   - Reports (in .hwp format and renamed to English title extracted from the case title)
 
 ### Data Processing
 1. Scrape the KMST website to extract translated case titles and links to decision reports
